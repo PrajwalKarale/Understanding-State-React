@@ -47,7 +47,7 @@
   }
 }
 
-.animal-list {
+.animalList {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
